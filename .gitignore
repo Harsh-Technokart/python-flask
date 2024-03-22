@@ -1,0 +1,5 @@
+.venv
+__pycache__
+queries/__pycache__
+route_handlers/__pycache__
+.env
